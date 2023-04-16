@@ -1,0 +1,1 @@
+lCTF{flag}
